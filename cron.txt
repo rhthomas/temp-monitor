@@ -1,0 +1,2 @@
+*/5 * * * * ~/temp-monitor/temp.py
+59 23 * * * ~/temp-monitor/plot.py
